@@ -46,6 +46,6 @@ export const Items = styled.h3`
   }
 
   @media only screen and (max-width: 1300px) {
-    font-size: medium;
+    font-size: smaller;
   }
 `;
