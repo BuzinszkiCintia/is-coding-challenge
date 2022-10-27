@@ -41,6 +41,7 @@ export const ReceiptBody = styled.div`
 export const Items = styled.h3`
   margin: 0.2rem;
   font-weight: lighter;
+  font-size: smaller;
   :nth-child(2) {
     text-align: right;
   }
